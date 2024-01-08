@@ -3,14 +3,14 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=F7C300&height=70&duration=4000&lines=Welcome+💫;My+name+is+James+Li!;" />
 </h1>
-<h3 align="center">I'm a Highschool student from Canada with a passion for coding💫</h3>
+<h3 align="center">I'm a Highschool student from Canada with a passion for coding💻</h3>
 <br/>
 
-- 🔭 I’m currently working on **NodeJS Projects, Learning ReactJS**
+- 🔭 I’m currently working on **NodeJS Projects**
 
 - 🌱 I’m currently learning **React, Typescript**
 
-- 📫 How to reach me **Lijames9532@gmail.com**
+- 📫 Email me **Lijames9532@gmail.com**
 
 - ⚡ Fun fact **I am a big fan of football⚽**
 
