@@ -1,15 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JLi2007.JLi2007" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+💫;My+name+is+James+Li!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=F7C300&height=70&duration=4000&lines=Welcome+💫;My+name+is+James+Li!;" />
 </h1>
+<h3 align="center">I'm a Highschool student from Canada with a passion for coding💫</h3>
 <br/>
-<h1 align="center">Hi 👋, I'm James Li</h1>
-<h3 align="center">A HighSchool student from Canada with a passion for coding💫</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jli2007&label=Profile%20views&color=0e75b6&style=flat" alt="jli2007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jli2007" alt="jli2007" /></a> </p>
 
 - 🔭 I’m currently working on **NodeJS Projects, Learning ReactJS**
 
@@ -29,7 +24,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express/><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express"/><br>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jli2007&show_icons=true&locale=en&layout=compact" alt="jli2007" /></p>
