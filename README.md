@@ -32,6 +32,13 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express"/><br>
 </div>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JLi2007/JLi2007/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
