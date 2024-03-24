@@ -7,9 +7,9 @@
 <br>
 
 <ul align="center"> 
-🔭 I’m currently working on - <strong>NodeJS Projects</strong>
+🔭 I’m currently working on - <strong>React Portfolio / Full Stack Projects</strong>
 <br><br>
-🌱 I’m currently learning - <strong>React, Typescript</strong>
+🌱 I’m currently learning - <strong>React</strong>
 <br><br>
 📫 Email me - <strong>Lijames9532@gmail.com</strong>
 <br><br>
