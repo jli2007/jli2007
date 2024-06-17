@@ -18,8 +18,8 @@
 <h2 align="center">⚙️Languages | Frameworks⚙️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,html,css,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongo,vscode"/><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,vue" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongo,express,rust,python,bootstrap,git"/><br>
 </div>
 
 <br>
