@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=raleway&size=35&center=true&vCenter=true&width=500&color=F7C300&height=70&duration=4000&lines=+hey👋+I'm+James;" />
 </h1>
 <ul align="center"> 
-🔭 I’m currently working on - <strong>Full Stack Projects</strong>
+🔭 I’m currently working on - <strong>Full Stack Projects | Neo Developper League</strong>
 <br><br>
 🌱 I’m currently learning - <strong>Rust</strong>
 </ul>
