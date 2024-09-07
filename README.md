@@ -15,11 +15,13 @@
 <a href="https://linkedin.com/in/james-li-a81004275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james-li-a81004275" height="60" width="80" /></a>
 </p>
 
-<h2 align="center">⚙️Languages | Frameworks⚙️</h2>
+<h2 align="center">⚙️ Stack ⚙️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,tailwind,vue" />
-    <img src="https://skillicons.dev/icons?i=nodejs,mongo,express,rust,python,tauri,git"/><br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,vue,python,c#,rust" />
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,mongo,express,tailwind,tauri,git,mysql"/><br>
 </div>
 
 <br>
