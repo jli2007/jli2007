@@ -6,7 +6,7 @@
 <ul align="center"> 
 🔭 I’m currently working on - <strong>Full Stack Projects | Neo Developer League</strong>
 <br><br>
-🌱 I’m currently learning - <strong>Rust</strong>
+🌱 I’m currently learning - <strong>Processing | Java</strong>
 </ul>
 
 <h3 align="center">Lets Connect</h3>
