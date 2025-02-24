@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=raleway&size=35&center=true&vCenter=true&width=500&color=F7C300&height=70&duration=4000&lines=+hey👋+I'm+James;" />
 </h1>
 <ul align="center"> 
-👷🏻 currently building <strong>©neo developer league & full stack projects</strong>
+👷🏻 currently building <strong>neo developer league™</strong>
 </ul>
 
 <h3 align="center">Lets Connect</h3>
