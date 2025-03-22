@@ -37,6 +37,10 @@ currently building the <strong>neo developer league™</strong>
 ## 📊 &nbsp;Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
