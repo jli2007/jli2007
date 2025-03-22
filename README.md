@@ -16,7 +16,7 @@ currently building the <strong>neo developer league™</strong>
     <img src="https://skillicons.dev/icons?i=rust,python,processing,c#" />
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongo,express,tauri,npm,mysql,supabase"/><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,mongo,express,docker,mysql,supabase,tauri"/><br>
 </div>
 
 <br>
