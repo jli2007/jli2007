@@ -13,10 +13,10 @@ currently building the <strong>neo developer league™</strong>
     <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,vue,tailwind" />
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=rust,python,processing,c#" />
+    <img src="https://skillicons.dev/icons?i=rust,python,processing,cs,dotnet" />
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongo,express,docker,mysql,supabase,tauri"/><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,mongo,express,docker,postgresql,supabase,tauri"/><br>
 </div>
 
 <br>
