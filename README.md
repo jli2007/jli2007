@@ -38,10 +38,10 @@ currently building the <strong>neo developer league™</strong>
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                         18 hrs 25 mins  ███████████████████████▒░   93.99 %
-CSS                                28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Bash                               24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-JavaScript                         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+TypeScript                         18 hrs 45 mins  ████████████████████████░   95.80 %
+CSS                                22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Bash                               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+JavaScript                         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 Microsoft Visual Studio Solution   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
