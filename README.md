@@ -1,14 +1,17 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JLi2007.JLi2007" />
 
 <div align="center">
-    <h2 >hey👋 I'm <a href="https://jame.li/home" target="blank"> James Li 李思远 </a></h2>
+    <h2 >hey👋 I'm <a href="https://jame.li/" target="blank"> James Li 李思远 </a></h2>
 </div>
 
-<ul align="center"> 
-currently building the <strong>neo developer league™</strong>
-</ul>
 <br/> 
 
+<ul align="center"> 
+uw cs'30. currently experimenting.
+</ul>
+
+<br/> 
+<!-- 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,vue,tailwind" />
 </div>
@@ -18,7 +21,7 @@ currently building the <strong>neo developer league™</strong>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,mongo,express,docker,postgresql,supabase,tauri"/><br>
 </div>
-
+-->
 <br>
 <div align="center">
   <table>
