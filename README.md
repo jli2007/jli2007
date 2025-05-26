@@ -41,11 +41,11 @@ uw cs'30. currently experimenting.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   15 hrs 4 mins   ███████████████████████▒░   93.37 %
-Markdown     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Text         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+TypeScript   6 hrs 22 mins   ████████████████████░░░░░   80.04 %
+CSS          53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+Bash         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+MDX          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
