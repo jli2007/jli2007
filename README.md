@@ -7,7 +7,7 @@
 <br/> 
 
 <ul align="center"> 
-uw cs'30. currently experimenting.
+currently experimenting (& learning flutter + .netcore)
 </ul>
 
 <br/> 
