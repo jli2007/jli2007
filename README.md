@@ -41,11 +41,11 @@ currently experimenting (& learning flutter + .netcore)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   8 hrs 30 mins   ███████████▓░░░░░░░░░░░░░   46.72 %
-C#           5 hrs 47 mins   ████████░░░░░░░░░░░░░░░░░   31.76 %
-MDX          1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-CSS          1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-Dart         1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+TypeScript   12 hrs 21 mins  ██████████████░░░░░░░░░░░   55.75 %
+C#           5 hrs 47 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
+MDX          1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+CSS          1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Dart         1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
 ```
 
 <!--END_SECTION:waka-->
