@@ -41,11 +41,11 @@ currently experimenting (& learning flutter + .netcore)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 48 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
-Python       1 hr 46 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
-YAML         1 hr 32 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
-Docker       1 hr 27 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-HTML         1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+Python       3 hrs 53 mins   ████████░░░░░░░░░░░░░░░░░   31.64 %
+TypeScript   2 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.83 %
+YAML         1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+Docker       1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+HTML         1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
 ```
 
 <!--END_SECTION:waka-->
