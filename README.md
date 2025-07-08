@@ -41,11 +41,11 @@ currently building + learning c# .netcore
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 2 mins    █████████████░░░░░░░░░░░░   51.57 %
-HTML         2 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
-YAML         1 hr 46 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-Bash         1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-CSS          29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+TypeScript   8 hrs 35 mins   ██████████████▒░░░░░░░░░░   56.77 %
+HTML         2 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
+YAML         1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+Bash         58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+CSS          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 ```
 
 <!--END_SECTION:waka-->
