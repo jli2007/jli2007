@@ -7,7 +7,7 @@
 <br/> 
 
 <ul align="center"> 
-currently building + learning c# .netcore
+currently creating something big ⏳
 </ul>
 
 <br/> 
