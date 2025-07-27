@@ -41,11 +41,11 @@ currently creating something big ⏳
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   15 hrs 17 mins  ████████████████░░░░░░░░░   64.35 %
-CSS          3 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-JSON         2 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
-TypeScript   1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-HTML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+JavaScript   13 hrs 31 mins  ████████████████████░░░░░   79.43 %
+CSS          2 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+JSON         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
