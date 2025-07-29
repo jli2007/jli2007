@@ -41,11 +41,7 @@ currently creating something big ⏳
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 57 mins   █████████████▓░░░░░░░░░░░   54.80 %
-CSS          2 hrs 10 mins   ██████████░░░░░░░░░░░░░░░   40.36 %
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
