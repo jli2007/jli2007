@@ -41,7 +41,9 @@ currently creating something big ⏳
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   10 mins         █████████████████▒░░░░░░░   69.55 %
+C#         4 mins          ███████░░░░░░░░░░░░░░░░░░   27.71 %
+Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
