@@ -7,7 +7,7 @@
 <br/> 
 
 <ul align="center"> 
-🌱 building [phuture](https://github.com/phutureai)
+🌱 building <a href="https://phutureai.com" target="blank"> phuture</a> 🌱
 </ul>
 
 <br/> 
