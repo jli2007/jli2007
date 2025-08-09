@@ -41,9 +41,11 @@ currently creating something big ⏳
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   10 mins         █████████████████▒░░░░░░░   69.55 %
-C#         4 mins          ███████░░░░░░░░░░░░░░░░░░   27.71 %
-Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Markdown     10 mins         ████████████▓░░░░░░░░░░░░   50.32 %
+C#           9 mins          ███████████▒░░░░░░░░░░░░░   44.99 %
+Bash         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
