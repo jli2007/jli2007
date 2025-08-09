@@ -7,7 +7,7 @@
 <br/> 
 
 <ul align="center"> 
-currently creating something big ⏳
+🌱 building [phuture](https://github.com/phutureai)
 </ul>
 
 <br/> 
