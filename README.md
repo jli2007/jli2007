@@ -6,23 +6,19 @@
 
 <br/> 
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <div style="display: flex; flex-direction: column; align-items: flex-start;">
+
+<div align="center"; style="display: flex; flex-direction: column; align-items: flex-start;">
           <div>- currently building <a href="https://phutureai.com" target="blank"> phuture</a> 🌱 — pokemon-go for nature </div>
             <br/> 
           <div>- previously interned at lakes software & tauria </div>
             <br/> 
-          <div>- links: <a href="https://jame.li/" target="blank"> personal website</a> - <a href="https://www.linkedin.com/in/james-siyuan-li/" target="blank"> linkedin</a> - <a href="https://x.com/james_siyuan_li" target="blank"> x</a> - <a href="https://www.instagram.com/jamesdialedin/" target="blank"> ig</a</div>
-        </div>
-      </td>
-      <td>
+          <div>- links: <a href="https://jame.li/" target="blank"> personal website</a> - <a href="https://www.linkedin.com/in/james-siyuan-li/" target="blank"> linkedin</a> - <a        href="https://x.com/james_siyuan_li" target="blank"> x</a> - <a href="https://www.instagram.com/jamesdialedin/" target="blank"> ig</a</div>
+</div>
+
+<br/> 
+
+<div align="center">
         <img src="https://streak-stats.demolab.com/?user=JLi2007&theme=tokyonight-duo&border_radius=10" alt="streak stats"/>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ## 📊 &nbsp;Weekly Development Breakdown
