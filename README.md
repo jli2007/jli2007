@@ -1,18 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JLi2007.JLi2007" />
 
 <div align="center">
-    <h2 ><a href="https://jame.li/" target="blank"> james li 李思远 </a></h2>
+    <h3 ><a href="https://jame.li/" target="blank"> james li | 李思远 </a></h3>
 </div>
 
 <br/> 
 
 
 <div align="center"; style="display: flex; flex-direction: column; align-items: flex-start;">
-          <div>- currently building <a href="https://phutureai.com" target="blank"> phuture</a> 🌱 — pokemon-go for nature </div>
-            <br/> 
-          <div>- previously interned at lakes software & tauria </div>
-            <br/> 
-          <div>- links: <a href="https://jame.li/" target="blank"> personal website</a> - <a href="https://www.linkedin.com/in/james-siyuan-li/" target="blank"> linkedin</a> - <a        href="https://x.com/james_siyuan_li" target="blank"> x</a> - <a href="https://www.instagram.com/jamesdialedin/" target="blank"> ig</a</div>
+      <div> uwaterloo cs </div>
+        <br/> 
+      <div>previously @ lakes software, tauria </div>
+        <br/> 
+      <div><a href="https://jame.li/" target="blank"> personal website</a> - <a href="https://www.linkedin.com/in/james-siyuan-li/" target="blank"> linkedin</a> - <a        href="https://x.com/james_siyuan_li" target="blank"> twitter</a> - <a href="https://www.instagram.com/jamesdialedin/" target="blank"> instagram </a</div>
 </div>
 
 <br/> 
@@ -20,20 +20,6 @@
 <div align="center">
         <img src="https://streak-stats.demolab.com/?user=JLi2007&theme=tokyonight-duo&border_radius=10" alt="streak stats"/>
 </div>
-
-## 📊 &nbsp;Weekly Development Breakdown
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   14 hrs 13 mins  ██████████████████░░░░░░░   71.98 %
-Python       2 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-MDX          1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-CSS          40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Bash         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-```
-
-<!--END_SECTION:waka-->
-
 
 <!-- ARCHIVE-->
 
